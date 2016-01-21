@@ -1,0 +1,19 @@
+{
+  "name": "twbot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ifx": "^1.0.4",
+    "lodash": "^4.0.0",
+    "promise": "^7.1.1",
+    "rx": "^4.0.7",
+    "superagent": "^1.7.0",
+    "twit": "^2.1.1"
+  }
+}
